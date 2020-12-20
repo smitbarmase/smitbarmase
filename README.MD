@@ -1,0 +1,8 @@
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![GraphQL](https://img.shields.io/badge/-GraphQL.js-000?&logo=graphql)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
