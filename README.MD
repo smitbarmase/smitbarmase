@@ -21,7 +21,7 @@
 - [Youtuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make videos on complex problem-solving and web development.
 
 ### Problem Solving
-- 6 stars on Problem-Solving Track of HackerRank
+- 6 stars on problem-solving track of HackerRank
 
 ### Tech Stack, I have worked with
 ![Next.js](https://img.shields.io/badge/-Next.js-222?&logo=next.js)
