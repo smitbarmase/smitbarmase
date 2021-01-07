@@ -18,7 +18,7 @@
 
 ### My Experiences 🙌
 - [Web Lead, Developer Student Clubs](https://dsc.community.dev/) - Conducted webinars on Web Dev, Open Source, etc and, worked on various full-stack projects with the team.
-- Youtuber ([Youtube](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg)) - Started a youtube and making videos on problem-solving and web development.
+- [Youtuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make videos on complex problem-solving and web development.
 
 ### Problem Solving
 - 6 stars on Problem-Solving Track of HackerRank
