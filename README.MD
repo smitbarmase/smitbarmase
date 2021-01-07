@@ -22,7 +22,6 @@
 
 ### Problem Solving
 - 6 stars on Problem-Solving Track of HackerRank
-- 2 star coder on CodeChef
 
 ### Tech Stack, I have worked with
 ![Next.js](https://img.shields.io/badge/-Next.js-222?&logo=next.js)
