@@ -19,7 +19,7 @@
 ### My Experiences 🙌
 - [Web Lead, Developer Student Clubs](https://dsc.community.dev/) - Conducted webinars on Web Dev and worked with the team on full-stack project.
 - [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed 5+ games in C#, integrated with Google Play Games and Facebook Friends.
-- [Youtuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on Problem-Solving and Web Development.
+- [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on Problem-Solving and Web Development.
 
 ### Problem Solving
 - 6 stars on problem-solving track of HackerRank
