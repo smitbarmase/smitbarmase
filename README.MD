@@ -3,7 +3,10 @@
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 <a href="https://twitter.com/smitbarmase">
-  <img align="left" width="26px" src="https://img.shields.io/endpoint?style=flat&logo=twitter" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="32" title="Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/smitbarmase">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="32" title="LinkedIn" />
 </a>
 
 <br />
