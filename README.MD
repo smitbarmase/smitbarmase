@@ -2,11 +2,17 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
-<a href="https://twitter.com/smitbarmase">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="32" title="Twitter" />
-</a>
 <a href="https://www.linkedin.com/in/smitbarmase">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="32" title="LinkedIn" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26" title="LinkedIn" />
+</a>
+<a href="https://twitter.com/smitbarmase">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="26" title="Twitter" />
+</a>
+<a href="https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="26" title="YouTube" />
+</a>
+<a href="https://dev.to/smitbarmase">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="26" title="dev.to"/>
 </a>
 
 <br />
