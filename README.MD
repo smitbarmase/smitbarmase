@@ -2,14 +2,8 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
-<a href="https://www.linkedin.com/in/smitbarmase/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
 <a href="https://twitter.com/smitbarmase">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" width="26px" src="https://img.shields.io/endpoint?style=flat&logo=twitter" />
 </a>
 
 <br />
