@@ -1,4 +1,6 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Smit!](https://smitbarmase.github.io) 
+### Hey I'm [Smit!](https://smitbarmase.github.io) 🚀
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 <a href="https://www.linkedin.com/in/smitbarmase/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -11,10 +13,6 @@
 </a>
 
 <br />
-
-### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
 - [Web Lead, Developer Student Clubs](https://dsc.community.dev/) - Conducted webinars on Web Dev and worked with the team on full-stack project.
