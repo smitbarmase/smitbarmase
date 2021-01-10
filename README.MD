@@ -11,8 +11,14 @@
 <a href="https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="26" title="YouTube" />
 </a>
+<a href="https://discord.com/channels/@me/689540557340541026">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="26" title="Discord" />
+</a>
 <a href="https://dev.to/smitbarmase">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="26" title="dev.to"/>
+</a>
+<a href="https://www.patreon.com/smitbarmase">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="125" title="Patreon" />
 </a>
 
 <br />
