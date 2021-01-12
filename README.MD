@@ -28,7 +28,13 @@
 - [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed 5+ games in C#, integrated with Google Play Games and Facebook Friends.
 - [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on Problem-Solving and Web Development.
 
-### Problem Solving
+### My Videos
+- [Dungeon Game - Dynamic Programming](https://youtu.be/gSlp0dmeJGY) - Hard - LeetCode
+- [Reducing Dishes - Dynamic Programming](https://youtu.be/3P9A_epkJUI) - Hard - LeetCode
+- [Unique Paths 3 - Backtracking, Depth First Search](https://youtu.be/hCx8ENz2Vtw) - Hard - LeetCode
+- [And more...](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg)
+
+### My Problem Solving Skills
 - 6 stars on problem-solving track of HackerRank
 
 ### Tech Stack, I have worked with
