@@ -22,7 +22,7 @@
 
 ### My Experiences 🙌
 - [Technical Co-Head, GeeksforGeeks Student Chapter](https://www.geeksforgeeks.org/) - Working on technical aspect of the community and conducting workshops.
-- [Web Lead, Developer Student Clubs](https://dsc.community.dev/) - Conducted webinars on **web dev** and worked with the team on full-stack project.
+- [Web Lead, Developer Student Clubs](https://dsc.community.dev/) - Conducted webinars on web dev and worked with the team on full-stack project.
 - [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+** games in C#, integrated with Google Play Games and Facebook Friends.
 - [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **problem-solving**.
 
