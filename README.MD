@@ -22,12 +22,12 @@
 
 ### My Tech Stack
 #### Full Stack Development Stack
-![Next](https://img.shields.io/badge/-Next.js-222?&logo=next.js)
+![Next.js](https://img.shields.io/badge/-Next.js-222?&logo=next.js)
 ![React](https://img.shields.io/badge/-React-222?&logo=React)
-![Apollo Client](https://img.shields.io/badge/-React-222?&logo=ApolloClient)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222?&logo=typescript&logoColor=007acc)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222?&logo=tailwindcss&logoColor=38B2AC)
 <br />
-![Node](https://img.shields.io/badge/-Node.js-222?&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-222?&logo=node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-222?&logo=graphql&logoColor=e535ab)
 ![Redis](https://img.shields.io/badge/-Redis-222?&logo=redis)
 <br />
