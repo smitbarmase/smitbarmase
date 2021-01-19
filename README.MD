@@ -35,9 +35,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222?&logo=mongodb&logoColor=4db33d)
 
 #### Game Development and others
-![C#](https://img.shields.io/badge/-csharp-222?&logo=csharp)
-![C++](https://img.shields.io/badge/-cplusplus-222?&logo=cplusplus)
-![Unity](https://img.shields.io/badge/-unity-222?&logo=unity)
+![C#](https://img.shields.io/badge/-C#-222?&logo=csharp)
+![C++](https://img.shields.io/badge/-C++-222?&logo=cplusplus)
+![Unity](https://img.shields.io/badge/-Unity-222?&logo=unity)
 
 
 ![Smit's github stats](https://github-readme-stats.vercel.app/api?username=smitbarmase&show_icons=true&hide_border=true)
