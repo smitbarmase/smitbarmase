@@ -20,7 +20,7 @@
 - [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+** games in C#, integrated with Google Play Games and Facebook Leaderboard.
 - [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **problem-solving** and **competitve programming**.
 
-### My Full Stack Development Stack 
+### My Tech Stack 
 ![Next.js](https://img.shields.io/badge/-Next.js-222?&logo=next.js)
 ![React](https://img.shields.io/badge/-React-222?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222?&logo=typescript)
