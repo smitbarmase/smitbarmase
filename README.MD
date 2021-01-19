@@ -35,8 +35,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222?&logo=mongodb&logoColor=4db33d)
 
 #### Game Development and others
-![C#](https://img.shields.io/badge/-C-sharp-222?&logo=c-sharp)
-![C++](https://img.shields.io/badge/-C++-222?&logo=C++)
+![C#](https://img.shields.io/badge/-C-sharp-222?&logo=csharp)
+![C++](https://img.shields.io/badge/-C++-222?&logo=cplusplus)
 ![Unity](https://img.shields.io/badge/-Unity-222?&logo=unity)
 
 
