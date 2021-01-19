@@ -24,11 +24,11 @@
 #### Full Stack Development Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-222?&logo=next.js)
 ![React](https://img.shields.io/badge/-React-222?&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-222?&logo=typescript&logoColor=007acc)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222?&logo=tailwindcss&logoColor=38B2AC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222?&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222?&logo=tailwindcss)
 <br />
 ![Node.js](https://img.shields.io/badge/-Node.js-222?&logo=node.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-222?&logo=graphql&logoColor=e535ab)
+![GraphQL](https://img.shields.io/badge/-GraphQL-222?&logo=graphql)
 ![Redis](https://img.shields.io/badge/-Redis-222?&logo=redis)
 <br />
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222?&logo=postgresql&logoColor=30648c)
