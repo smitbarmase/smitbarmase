@@ -26,17 +26,18 @@
 ![React](https://img.shields.io/badge/-React-222?&logo=React)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-222?&logo=graphql&logoColor=e535ab)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222?&logo=typescript&logoColor=007acc)
+<br />
 ![Node.js](https://img.shields.io/badge/-Node.js-222?&logo=node.js)
 ![Redis](https://img.shields.io/badge/-Redis-222?&logo=redis)
+<br />
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222?&logo=postgresql&logoColor=30648c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222?&logo=mongodb&logoColor=4db33d)
 
-#### Game Development
-![C#](https://img.shields.io/badge/-C#-222?&logo=c#)
+#### Game Development and others
+![C#](https://img.shields.io/badge/-C-sharp-222?&logo=c-sharp)
+![C++](https://img.shields.io/badge/-C++-222?&logo=C++)
 ![Unity](https://img.shields.io/badge/-Unity-222?&logo=unity)
 
-#### Competitve Programming
-![C++](https://img.shields.io/badge/-C++-222?&logo=C++)
 
 ![Smit's github stats](https://github-readme-stats.vercel.app/api?username=smitbarmase&show_icons=true&hide_border=true)
 <br />
