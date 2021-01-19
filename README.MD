@@ -20,8 +20,7 @@
 - [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+** games in C#, integrated with Google Play Games and Facebook Leaderboard.
 - [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **problem-solving** and **competitve programming**.
 
-### My Tech Stack
-#### Full Stack Development Stack:
+### My Full Stack Development Stack 
 ![Next.js](https://img.shields.io/badge/-Next.js-222?&logo=next.js)
 ![React](https://img.shields.io/badge/-React-222?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222?&logo=typescript)
@@ -30,12 +29,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-222?&logo=redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222?&logo=postgresql&logoColor=30648c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222?&logo=mongodb&logoColor=4db33d)
-
-#### Others:
-![C Sharp](https://img.shields.io/badge/-CSharp-222?&logo=csharp)
-![C++](https://img.shields.io/badge/-C++-222?&logo=cplusplus)
-![Unity](https://img.shields.io/badge/-Unity-222?&logo=unity)
-
 
 ![Smit's github stats](https://github-readme-stats.vercel.app/api?username=smitbarmase&show_icons=true&hide_border=true)
 <br />
