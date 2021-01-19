@@ -35,7 +35,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222?&logo=mongodb&logoColor=4db33d)
 
 #### Others:
-![C Sharp](https://img.shields.io/badge/-C Sharp-222?&logo=csharp)
+![C Sharp](https://img.shields.io/badge/-CSharp-222?&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-222?&logo=cplusplus)
 ![Unity](https://img.shields.io/badge/-Unity-222?&logo=unity)
 
