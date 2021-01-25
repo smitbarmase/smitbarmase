@@ -1,6 +1,7 @@
 ### Hey I'm [Smit!](https://smitbarmase.github.io) 🚀
 🎓 I’m an **open-source** enthusiast & I'm pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about **web dev**, mainly working with **react** and **graphql** environment & *I enjoy learning new things and technologies*. </br>
+👾 Want to know more? Visit [smitbarmase.github.io](https://smitbarmase.github.io)
 
 <a href="https://www.linkedin.com/in/smitbarmase">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26" title="LinkedIn" />
