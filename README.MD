@@ -31,5 +31,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222?&logo=postgresql&logoColor=30648c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222?&logo=mongodb&logoColor=4db33d)
 
-![Smit's github stats](https://github-readme-stats.vercel.app/api?username=smitbarmase&show_icons=true&hide_border=true)
 <br />
