@@ -3,11 +3,14 @@
 👨‍💻  I am passionate about **web dev**, mainly working with **react** and **graphql** environment & *I enjoy learning new things and technologies*. </br>
 👾 Want to know more? Visit [smitbarmase.github.io](https://smitbarmase.github.io)
 
-<a href="https://www.linkedin.com/in/smitbarmase">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26" title="LinkedIn" />
+<a href="https://www.dev.to/smitbarmase">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="26" title="Dev.to" />
 </a>
 <a href="https://twitter.com/smitbarmase">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="26" title="Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/smitbarmase">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26" title="LinkedIn" />
 </a>
 <a href="https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="26" title="YouTube" />
