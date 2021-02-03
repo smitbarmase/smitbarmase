@@ -24,6 +24,14 @@
 - [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+** games in C#, integrated with Google Play Games and Facebook Leaderboard.
 - [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **problem-solving** and **competitve programming**.
 
+
+### My Projects 👀
+- [Pods - Project Management and Communication Tool for Teams](https://github.com/smitbarmase/pods) - Next.js, GraphQL, Apollo Client, Node.js, PostgreSQL, Redis and TailwindCSS.
+- [Commute - Social Network to help People connect to Work](https://github.com/smitbarmase/commute) - Next.js, GraphQL, Apollo Client, Node.js, PostgreSQL and Redis.
+- [GeeksforGeeks Student Chapter, VIT Bhopal](https://geeksforgeeks-vit-bhopal.github.io/) - React, Firebase, TypeScript and TailwindCSS.
+- [Developer Student Clubs, VIT Bhopal](https://dscvitbhopal.github.io/) - Next.js, Styled Components and Static Site Generation(SSG) for better SEO.
+- [And more...](https://smitbarmase.github.io)
+
 ### My Tech Stack 
 ![Next.js](https://img.shields.io/badge/-Next.js-222?&logo=next.js)
 ![React](https://img.shields.io/badge/-React-222?&logo=React)
