@@ -1,7 +1,7 @@
 ### Hey I'm [Smit!](https://smitbarmase.github.io) 🚀
 🎓 I’m an **open-source** enthusiast & I'm pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about **Web Dev**, mainly working with **React** and **Graphql** environment & *I enjoy learning new things and technologies*. </br>
-👾 My hobby became my job, and now I have no hobbies! Lol
+👾 My hobby became my job, and now I have no hobbies! Lol 😛
 
 <a href="https://www.dev.to/smitbarmase">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="26" title="Dev.to" />
