@@ -26,7 +26,7 @@
 
 
 ### My Projects 👀
-- [Pods - Project Management and Communication Tool](https://github.com/smitbarmase/pods) - Next.js, GraphQL, Apollo Client, Node.js, PostgreSQL, Redis and TailwindCSS.
+- [Zenmode - Project Management and Communication Tool](https://github.com/smitbarmase/pods) - React, GraphQL, Apollo Client, Node.js, PostgreSQL, Redis and TailwindCSS.
 - [Commute - Social Network to help People connect to Work](https://github.com/smitbarmase/commute) - Next.js, GraphQL, Apollo Client, Node.js, PostgreSQL and Redis.
 - [GeeksforGeeks Student Chapter, VIT Bhopal](https://geeksforgeeks-vit-bhopal.github.io/) - React, Firebase, TypeScript and TailwindCSS.
 - [Developer Student Clubs, VIT Bhopal](https://dscvitbhopal.github.io/) - Next.js, Styled Components and Static Site Generation(SSG) for better SEO.
