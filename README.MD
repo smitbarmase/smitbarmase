@@ -4,20 +4,6 @@
 😋 I am passionate about **Web Development**, along with **Cloud Technologies** and **Machine Learning**. </br>
 👾 My hobby became my job, and now I have no hobbies! XD </br>
 
-<a href="mailto:smitbarmase@outlook.com">
-  <img src="https://github.com/smitbarmase/SuperTinyIcons/blob/master/images/svg/outlook.svg" width="26" title="Outlook" />
-</a>
-<a href="https://twitter.com/smitbarmase">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="26" title="Twitter" />
-</a>
-<a href="https://www.linkedin.com/in/smitbarmase">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26" title="LinkedIn" />
-</a>
-<a href="https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="26" title="YouTube" />
-</a>
-<br />
-
 ### My Experiences 🙌
 - [Technical Co-Head, GeeksforGeeks Student Chapter](https://www.geeksforgeeks.org/) - Working on technical aspect of the community and conducting workshops.
 - [Web Lead, Developer Student Clubs](https://dsc.community.dev/) - Conducted webinars on web dev and worked with the team on full-stack project.
@@ -38,14 +24,7 @@
 ![Git](https://img.shields.io/badge/-Git-24292E?&logo=git&logoColor=E94D2E)
 <br />
 
-### My Projects 👀
-- [Zenmode - Project Management and Communication Tool](https://github.com/smitbarmase/pods) - React, GraphQL, Apollo Client, Node.js, PostgreSQL, Redis and TailwindCSS.
-- [Commute - Social Network to help People connect to Work](https://github.com/smitbarmase/commute) - Next.js, GraphQL, Apollo Client, Node.js, PostgreSQL and Redis.
-- [GeeksforGeeks Student Chapter, VIT Bhopal](https://geeksforgeeks-vit-bhopal.github.io/) - React, Firebase, TypeScript and TailwindCSS.
-- [Developer Student Clubs, VIT Bhopal](https://dscvitbhopal.github.io/) - Next.js, Styled Components and Static Site Generation(SSG) for better SEO.
-- [And more...](https://smitbarmase.github.io)
-
 ### My Stats 👨🏻‍💻
-<img src="https://github-readme-stats.vercel.app/api?username=smitbarmase&layout=compact&hide=html&theme=jolly" alt="smitbarmase" />
+<img src="https://github-readme-stats.vercel.app/api?username=smitbarmase&layout=compact&theme=tokyonight" alt="smitbarmase" />
 
 <img src="https://komarev.com/ghpvc/?username=smitbarmase" alt="smitbarmase" />
