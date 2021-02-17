@@ -13,7 +13,7 @@
 ### My Technology Stack 🤗
 ![Next.js](https://img.shields.io/badge/-Next.js-24292E?&logo=next.js)
 ![React](https://img.shields.io/badge/-React-24292E?&logo=React)
-![Jest](https://img.shields.io/badge/-Jest-24292E?&logo=jest&logoColor=4db33d)
+![Jest](https://img.shields.io/badge/-Jest-24292E?&logo=jest&logoColor=BC1224)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-24292E?&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-24292E?&logo=node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-24292E?&logo=graphql&logoColor=E10098)
