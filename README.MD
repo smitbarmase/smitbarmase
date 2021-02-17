@@ -4,8 +4,10 @@
 😋 I am passionate about **Web Development**. Currently learning **Kubernetes** and **DevOps**. </br>
 👾 My hobby became my job, and now I have no hobbies! XD </br>
 
+PS: I love working with **React**, **GraphQL** and **Node** ecosystem! 🤫
+
 ### My Experiences 🙌🏻
-- [OneStep-elecTRON](https://github.com/OneStep-elecTRON/onestep-electron.github.io) - Started a community-led, open-sourced, e-learning platform for Machine Learning and Data Science.
+- [OneStep-elecTRON](https://github.com/OneStep-elecTRON/onestep-electron.github.io) - Started a community-led, open-sourced, e-learning platform for **Machine Learning** and **Data Science**.
 - [Technical Co-Head, GeeksforGeeks Student Chapter](https://github.com/GeeksforGeeks-VIT-Bhopal/geeksforgeeks-vit-bhopal.github.io) - Working on technical aspect of the community and conducting workshops.
 - [Web Lead, Developer Student Clubs](https://github.com/DSCVITBHOPAL/dscvitbhopal.github.io) - Conducted webinars on web dev and worked with the team on full-stack project.
 - [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+ Android Games** using C#, having over **1k+ downloads** on Google Play Store.
