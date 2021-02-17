@@ -26,4 +26,5 @@
 
 ### My Stats 👨🏻‍💻
 <img src="https://github-readme-stats.vercel.app/api?username=smitbarmase&layout=compact&theme=tokyonight&hide_title=true&include_all_commits=true" alt="smitbarmase" />
-<img src="https://komarev.com/ghpvc/?username=smitbarmase" alt="smitbarmase" />
+
+#### Find me on <a href="https://www.twitter.com/smitbarmase">Twitter</a> and <a href="https://www.linkedin.com/in/smitbarmase">LinkedIn</a>. Feel free to mail me <a href="mailto:smitbarmase@outlook.com">here</a>.
