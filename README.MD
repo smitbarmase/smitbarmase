@@ -9,9 +9,9 @@ PS: I love working with **React**, **GraphQL** and **Node** ecosystem! 🤫
 ### My Experiences 🙌🏻
 - [OneStep-elecTRON](https://github.com/OneStep-elecTRON/onestep-electron.github.io) - Started a community-led, open-sourced, e-learning platform for **Machine Learning** and **Data Science**.
 - [Technical Co-Head, GeeksforGeeks Student Chapter](https://github.com/GeeksforGeeks-VIT-Bhopal/geeksforgeeks-vit-bhopal.github.io) - Working on technical aspect of the community and conducting workshops.
-- [Web Lead, Developer Student Clubs](https://github.com/DSCVITBHOPAL/dscvitbhopal.github.io) - Conducted webinars on web dev and worked with the team on full-stack project.
-- [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+ Android Games** using C#, having over **1k+ downloads** on Google Play Store.
-- [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **Problem Solving** and **Development**.
+- [Web Lead, Developer Student Clubs](https://github.com/DSCVITBHOPAL/dscvitbhopal.github.io) - Conducted webinars and contributed to **Open Source** projects along with team.
+- [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+ Android Games** using C#, having over **1k+ Downloads** on Google Play Store.
+- [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **Problem Solving**.
 
 ### My Technology Stack 🤗
 ![Next.js](https://img.shields.io/badge/-Next.js-24292E?&logo=next.js)
