@@ -1,21 +1,21 @@
 ### Hey I'm [Smit!](https://smitbarmase.github.io) 🚀
-🎓 I’m an **open-source** enthusiast & I'm pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about **Web Dev**, mainly working with **React** and **Graphql** environment & *I enjoy learning new things and technologies*. </br>
-👾 My hobby became my job, and now I have no hobbies! XD
 
-<a href="https://www.dev.to/smitbarmase">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="26" title="Dev.to" />
-</a>
+🎓 I am a **sophomore** year student at **Vellore Institute of Technology, Bhopal** currently pursuing my Bachelors in Computer Science and Engineering. </br>
+🧐 I am passionate about **Web Development**, along with **Cloud Technologies** and **Machine Learning**. </br>
+👾 My hobby became my job, and now I have no hobbies! XD </br>
+
 <a href="https://twitter.com/smitbarmase">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="26" title="Twitter" />
 </a>
 <a href="https://www.linkedin.com/in/smitbarmase">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26" title="LinkedIn" />
 </a>
+<a href="https://www.instagram.com/smitbarmase">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="26" title="Instagram" />
+</a>
 <a href="https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="26" title="YouTube" />
 </a>
-
 <br />
 
 ### My Experiences 🙌
@@ -24,6 +24,19 @@
 - [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+** games in C#, integrated with Google Play Games and Facebook Leaderboard.
 - [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **problem-solving** and **competitve programming**.
 
+### My Technology Stack 🤗
+![Next.js](https://img.shields.io/badge/-Next.js-24292E?&logo=next.js)
+![React](https://img.shields.io/badge/-React-24292E?&logo=React)
+![Jest](https://img.shields.io/badge/-Jest-24292E?&logo=jest&logoColor=4db33d)
+![TypeScript](https://img.shields.io/badge/-TypeScript-24292E?&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-24292E?&logo=node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-24292E?&logo=graphql&logoColor=E10098)
+![Redis](https://img.shields.io/badge/-Redis-24292E?&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-24292E?&logo=postgresql&logoColor=30648c)
+![MongoDB](https://img.shields.io/badge/-MongoDB-24292E?&logo=mongodb&logoColor=4db33d)
+![Heroku](https://img.shields.io/badge/-Heroku-24292E?&logo=heroku&logoColor=645FA1)
+![Git](https://img.shields.io/badge/-Git-24292E?&logo=git&logoColor=E94D2E)
+<br />
 
 ### My Projects 👀
 - [Zenmode - Project Management and Communication Tool](https://github.com/smitbarmase/pods) - React, GraphQL, Apollo Client, Node.js, PostgreSQL, Redis and TailwindCSS.
@@ -32,14 +45,7 @@
 - [Developer Student Clubs, VIT Bhopal](https://dscvitbhopal.github.io/) - Next.js, Styled Components and Static Site Generation(SSG) for better SEO.
 - [And more...](https://smitbarmase.github.io)
 
-### My Tech Stack 
-![Next.js](https://img.shields.io/badge/-Next.js-222?&logo=next.js)
-![React](https://img.shields.io/badge/-React-222?&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-222?&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-222?&logo=node.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-222?&logo=graphql&logoColor=E10098)
-![Redis](https://img.shields.io/badge/-Redis-222?&logo=redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222?&logo=postgresql&logoColor=30648c)
-![MongoDB](https://img.shields.io/badge/-MongoDB-222?&logo=mongodb&logoColor=4db33d)
+### My Stats 👨🏻‍💻
+<img src="https://github-readme-stats.vercel.app/api?username=smitbarmase&layout=compact&hide=html&theme=jolly" alt="smitbarmase" />
 
-<br />
+<img src="https://komarev.com/ghpvc/?username=smitbarmase" alt="smitbarmase" />
