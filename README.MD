@@ -4,14 +4,14 @@
 😋 I am passionate about **Web Development**, along with **Cloud Technologies** and **Machine Learning**. </br>
 👾 My hobby became my job, and now I have no hobbies! XD </br>
 
+<a href="mailto:smitbarmase@outlook.com">
+  <img src="https://github.com/smitbarmase/SuperTinyIcons/blob/master/images/svg/outlook.svg" title="Outlook" />
+</a>
 <a href="https://twitter.com/smitbarmase">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="26" title="Twitter" />
 </a>
 <a href="https://www.linkedin.com/in/smitbarmase">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26" title="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/smitbarmase">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="26" title="Instagram" />
 </a>
 <a href="https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="26" title="YouTube" />
