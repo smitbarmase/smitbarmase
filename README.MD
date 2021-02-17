@@ -5,7 +5,7 @@
 👾 My hobby became my job, and now I have no hobbies! XD </br>
 
 <a href="mailto:smitbarmase@outlook.com">
-  <img src="https://github.com/smitbarmase/SuperTinyIcons/blob/master/images/svg/outlook.svg" title="Outlook" />
+  <img src="https://github.com/smitbarmase/SuperTinyIcons/blob/master/images/svg/outlook.svg" width="26" title="Outlook" />
 </a>
 <a href="https://twitter.com/smitbarmase">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="26" title="Twitter" />
