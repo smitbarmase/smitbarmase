@@ -8,7 +8,7 @@
 - [OneStep-elecTRON](https://github.com/OneStep-elecTRON/onestep-electron.github.io) - Started a community-led, open-sourced, e-learning platform for Machine Learning and Data Science.
 - [Technical Co-Head, GeeksforGeeks Student Chapter](https://github.com/GeeksforGeeks-VIT-Bhopal/geeksforgeeks-vit-bhopal.github.io) - Working on technical aspect of the community and conducting workshops.
 - [Web Lead, Developer Student Clubs](https://github.com/DSCVITBHOPAL/dscvitbhopal.github.io) - Conducted webinars on web dev and worked with the team on full-stack project.
-- [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+** games in C#, integrated with Google Play Games and Facebook Leaderboard.
+- [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+ Android Games** using C#, having over **1k+ downloads** on Google Play Store.
 - [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **Problem Solving** and **Development**.
 
 ### My Technology Stack 🤗
