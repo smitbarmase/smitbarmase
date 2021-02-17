@@ -4,7 +4,7 @@
 😋 I am passionate about **Web Development**, along with **Cloud Technologies** and **Machine Learning**. </br>
 👾 My hobby became my job, and now I have no hobbies! XD </br>
 
-### My Experiences 🙌
+### My Experiences 🙌🏻
 - [Technical Co-Head, GeeksforGeeks Student Chapter](https://www.geeksforgeeks.org/) - Working on technical aspect of the community and conducting workshops.
 - [Web Lead, Developer Student Clubs](https://dsc.community.dev/) - Conducted webinars on web dev and worked with the team on full-stack project.
 - [Game Developer and Founder, Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+** games in C#, integrated with Google Play Games and Facebook Leaderboard.
