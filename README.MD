@@ -1,7 +1,7 @@
 ### Hey I'm [Smit!](https://smitbarmase.github.io) 🚀
 
-🎓 I am a **sophomore** year student at **Vellore Institute of Technology, Bhopal** currently pursuing my Bachelors in Computer Science and Engineering. </br>
-🧐 I am passionate about **Web Development**, along with **Cloud Technologies** and **Machine Learning**. </br>
+🎓 I am a **sophomore** year student at **Vellore Institute of Technology, Bhopal**, pursuing my Bachelors in Computer Science and Engineering. </br>
+😋 I am passionate about **Web Development**, along with **Cloud Technologies** and **Machine Learning**. </br>
 👾 My hobby became my job, and now I have no hobbies! XD </br>
 
 <a href="https://twitter.com/smitbarmase">
