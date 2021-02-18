@@ -4,7 +4,7 @@
 😋 I am passionate about **Web Development**, **Machine Learning** and **DevOps**. Currently learning **Docker** and **Kubernetes**. </br>
 👾 My hobby became my job, and now I have no hobbies! XD </br>
 
-PS: I love working with **React**, **GraphQL** and **Node** ecosystem! 🤫
+> one pebble at a time
 
 ### My Experiences 🙌🏻
 - [GSSOC '21 Open Source Contributor](https://gssoc.girlscript.tech/) - Contributed to Open Source projects with a focus on the **React** and **Node** ecosystem.
