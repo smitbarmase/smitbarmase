@@ -1,7 +1,7 @@
 ### Hey I'm [Smit!](https://smitbarmase.github.io) 🚀
 
 🎓 I am a **sophomore** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
-😋 I am passionate about **Web Development**. Currently learning **Kubernetes** and **DevOps**. </br>
+😋 I am passionate about **Web Development**, **Machine Learning** and **DevOps**. Currently learning **Docker** and **Kubernetes**. </br>
 👾 My hobby became my job, and now I have no hobbies! XD </br>
 
 PS: I love working with **React**, **GraphQL** and **Node** ecosystem! 🤫
