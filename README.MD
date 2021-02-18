@@ -7,6 +7,7 @@
 PS: I love working with **React**, **GraphQL** and **Node** ecosystem! 🤫
 
 ### My Experiences 🙌🏻
+- [GSSOC '21 Open Source Contributor](https://gssoc.girlscript.tech/) - Contributed to Open Source projects with a focus on the **React** and **Node** ecosystem.
 - [OneStep-elecTRON](https://github.com/OneStep-elecTRON/onestep-electron.github.io) - Started a community-led, open-sourced, e-learning platform for **Machine Learning** and **Data Science**.
 - [Technical Co-Head, GeeksforGeeks Student Chapter](https://github.com/GeeksforGeeks-VIT-Bhopal/geeksforgeeks-vit-bhopal.github.io) - Working on technical aspect of the community and conducting workshops.
 - [Web Lead, Developer Student Clubs](https://github.com/DSCVITBHOPAL/dscvitbhopal.github.io) - Conducted webinars and contributed to **Open Source** projects along with team.
