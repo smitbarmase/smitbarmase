@@ -23,6 +23,7 @@ PS: I love working with **React**, **GraphQL** and **Node** ecosystem! 🤫
 ![Redis](https://img.shields.io/badge/-Redis-24292E?&logo=redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-24292E?&logo=postgresql&logoColor=30648c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-24292E?&logo=mongodb&logoColor=4db33d)
+![Firebase](https://img.shields.io/badge/-Firebase-24292E?&logo=firebase&logoColor=FFCB2B)
 ![Heroku](https://img.shields.io/badge/-Heroku-24292E?&logo=heroku&logoColor=645FA1)
 ![Git](https://img.shields.io/badge/-Git-24292E?&logo=git&logoColor=E94D2E)
 <br />
