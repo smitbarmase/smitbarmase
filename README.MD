@@ -27,6 +27,8 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-24292E?&logo=firebase&logoColor=FFCB2B)
 ![Heroku](https://img.shields.io/badge/-Heroku-24292E?&logo=heroku&logoColor=645FA1)
 ![Git](https://img.shields.io/badge/-Git-24292E?&logo=git&logoColor=E94D2E)
+![Docker](https://img.shields.io/badge/-Docker-24292E?&logo=docker&logoColor=0DB7ED)
+
 <br />
 
 ### My Stats 👨🏻‍💻
