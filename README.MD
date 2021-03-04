@@ -2,7 +2,7 @@
 
 🎓 I am a **sophomore** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
 😋 I am passionate about **Web Development**. Currently learning **Docker** and **Kubernetes**. </br>
-👾 My hobby became my job, and now I have no hobbies! XD </br>
+👾 I like working with React, Node and PostgreSQL. </br>
 
 ### My Experiences 🙌🏻
 - Open Source Contributor, [GSSOC '21](https://gssoc.girlscript.tech/) - Contributing to Open Source projects with a focus on the **React** and **Node** ecosystem.
