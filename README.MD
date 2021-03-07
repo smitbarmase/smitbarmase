@@ -13,17 +13,25 @@
 - [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **Problem Solving**.
 
 ### My Technology Stack 🤗
+
+Full Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-111?&logo=next.js)
 ![React](https://img.shields.io/badge/-React-111?&logo=React)
-![Jest](https://img.shields.io/badge/-Jest-111?&logo=jest&logoColor=BC1224)
-![TypeScript](https://img.shields.io/badge/-TypeScript-111?&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-111?&logo=node.js)
 ![Apollo](https://img.shields.io/badge/-Apollo-111?&logo=apollo-graphql&logoColor=311C87)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-111?&logo=graphql&logoColor=E10098)
-![Redis](https://img.shields.io/badge/-Redis-111?&logo=redis)
+![TypeScript](https://img.shields.io/badge/-TypeScript-111?&logo=typescript)
+
+Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?&logo=postgresql&logoColor=30648c)
+![Redis](https://img.shields.io/badge/-Redis-111?&logo=redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-111?&logo=mongodb&logoColor=4db33d)
 ![Firebase](https://img.shields.io/badge/-Firebase-111?&logo=firebase&logoColor=FFCB2B)
+
+Testing
+![Jest](https://img.shields.io/badge/-Jest-111?&logo=jest&logoColor=BC1224)
+
+Deployment
 ![Heroku](https://img.shields.io/badge/-Heroku-111?&logo=heroku&logoColor=645FA1)
 ![Git](https://img.shields.io/badge/-Git-111?&logo=git&logoColor=E94D2E)
 ![Docker](https://img.shields.io/badge/-Docker-111?&logo=docker&logoColor=0DB7ED)
