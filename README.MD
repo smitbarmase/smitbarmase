@@ -13,7 +13,7 @@
 
 ### My Technology Stack 🤗
 
-#### Full Stack
+#### Development
 ![Next.js](https://img.shields.io/badge/-Next.js-222?&logo=next.js)
 ![React](https://img.shields.io/badge/-React-222?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-222?&logo=node.js)
