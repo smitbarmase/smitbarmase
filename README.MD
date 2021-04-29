@@ -2,7 +2,7 @@
 
 🎓 I am a **sophomore** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
 😋 I am passionate about **Web Development**. Currently learning **Docker** and **Kubernetes**. </br>
-👾 I like working with React, GraphqQL, Node and PostgreSQL. </br>
+🧪 I like working with React, GraphqQL, Node and PostgreSQL. </br>
 
 ### My Experiences 🙌🏻
 - [OneStep-elecTRON](https://github.com/OneStep-elecTRON/onestep-electron.github.io) - Started a community-led, open-sourced, e-learning platform for **Machine Learning** and **Data Science**.
