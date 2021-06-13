@@ -1,6 +1,6 @@
 ### Hello there. It's [Smit!](https://smitbarmase.github.io)
 
-🎓 I am in my sophomore year pursuing a Bachelors in Computer Science Engineering at **Vellore Institute of Technology Bhopal, India**. </br>
+🎓 I am in my junior year pursuing a Bachelors in Computer Science Engineering at **Vellore Institute of Technology Bhopal, India**. </br>
 🧪 I like to develop web apps and learn about new technologies while building them. </br>
 ♟ I love solving problems and enjoys competitive progamming. </br>
 
