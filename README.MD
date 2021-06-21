@@ -11,4 +11,4 @@
 - Web Lead, [Developer Student Clubs](https://github.com/DSCVITBHOPAL/dscvitbhopal.github.io) - Conducted webinars and contributed to **Open Source** projects along with team.
 - Founder, [Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+ Android Games** using C#, having over **1k+ Downloads** on Google Play Store.
 
-#### Find me on <a href="https://www.codechef.com/users/smitbarmase">CodeChef</a>, <a href="https://www.linkedin.com/in/smitbarmase">LinkedIn</a> and  <a href="https://www.twitter.com/smitbarmase">Twitter</a>. Mail me <a href="mailto:smitbarmase@outlook.com">here</a>.
+#### Find me on <a href="https://www.linkedin.com/in/smitbarmase">LinkedIn</a> and  <a href="https://www.twitter.com/smitbarmase">Twitter</a>. Mail me <a href="mailto:smitbarmase@outlook.com">here</a>.
